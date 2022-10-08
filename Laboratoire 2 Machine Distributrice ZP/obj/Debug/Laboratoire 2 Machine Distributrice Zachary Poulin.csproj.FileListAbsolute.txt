@@ -1,0 +1,11 @@
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 2 Machine Distributrice Zachary Poulin\bin\Debug\Laboratoire 2 Machine Distributrice Zachary Poulin.exe.config
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 2 Machine Distributrice Zachary Poulin\bin\Debug\Laboratoire 2 Machine Distributrice Zachary Poulin.exe
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 2 Machine Distributrice Zachary Poulin\bin\Debug\Laboratoire 2 Machine Distributrice Zachary Poulin.pdb
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 2 Machine Distributrice Zachary Poulin\obj\Debug\Laboratoire 2 Machine Distributrice Zachary Poulin.csproj.AssemblyReference.cache
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 2 Machine Distributrice Zachary Poulin\obj\Debug\Laboratoire 2 Machine Distributrice Zachary Poulin.csproj.SuggestedBindingRedirects.cache
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 2 Machine Distributrice Zachary Poulin\obj\Debug\Laboratoire_2_Machine_Distributrice_Zachary_Poulin.Form1.resources
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 2 Machine Distributrice Zachary Poulin\obj\Debug\Laboratoire_2_Machine_Distributrice_Zachary_Poulin.Properties.Resources.resources
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 2 Machine Distributrice Zachary Poulin\obj\Debug\Laboratoire 2 Machine Distributrice Zachary Poulin.csproj.GenerateResource.cache
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 2 Machine Distributrice Zachary Poulin\obj\Debug\Laboratoire 2 Machine Distributrice Zachary Poulin.csproj.CoreCompileInputs.cache
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 2 Machine Distributrice Zachary Poulin\obj\Debug\Laboratoire 2 Machine Distributrice Zachary Poulin.exe
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 2 Machine Distributrice Zachary Poulin\obj\Debug\Laboratoire 2 Machine Distributrice Zachary Poulin.pdb
