@@ -1,0 +1,12 @@
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 4 StationMétéo ZP\bin\Debug\Laboratoire 4 StationMétéo ZP.exe.config
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 4 StationMétéo ZP\bin\Debug\Laboratoire 4 StationMétéo ZP.exe
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 4 StationMétéo ZP\bin\Debug\Laboratoire 4 StationMétéo ZP.pdb
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 4 StationMétéo ZP\obj\Debug\Laboratoire 4 StationMétéo ZP.csproj.AssemblyReference.cache
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 4 StationMétéo ZP\obj\Debug\Laboratoire 4 StationMétéo ZP.csproj.SuggestedBindingRedirects.cache
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 4 StationMétéo ZP\obj\Debug\Laboratoire_4_StationMétéo_ZP.Form1.resources
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 4 StationMétéo ZP\obj\Debug\Laboratoire_4_StationMétéo_ZP.Properties.Resources.resources
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 4 StationMétéo ZP\obj\Debug\Laboratoire 4 StationMétéo ZP.csproj.GenerateResource.cache
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 4 StationMétéo ZP\obj\Debug\Laboratoire 4 StationMétéo ZP.csproj.CoreCompileInputs.cache
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 4 StationMétéo ZP\obj\Debug\Laboratoire 4 StationMétéo ZP.exe
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 4 StationMétéo ZP\obj\Debug\Laboratoire 4 StationMétéo ZP.pdb
+C:\Users\zacha\Documents\A2022\Prog\Laboratoire 4 StationMétéo ZP\obj\Debug\Lab3_CommSerie_Zachary_Poulin.ConfigPort.resources
